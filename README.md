@@ -1,3 +1,6 @@
+### Ссылка
+https://github.com/Xoston/kanban-board
+
 ## Описание
 
 Минималистичное приложение для управления задачами с тремя колонками:
@@ -22,6 +25,3 @@
 
 ### Мобильная версия  
 ![Мобильная версия](/screen/mobile.png)
-
-### Ссылка
-https://github.com/Xoston/kanban-board
