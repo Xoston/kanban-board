@@ -22,3 +22,4 @@
 
 ### Мобильная версия  
 ![Мобильная версия](/screen/mobile.png)
+https://github.com/Xoston/kanban-board
